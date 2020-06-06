@@ -2,7 +2,7 @@
 
 Vous travaillez sur un projet de fin d'étude et vous venez de passer plusieurs jours/nuits à développer votre application. Celle-ci marche parfaitement bien et vous êtes prêt à la présenter. Vous déployez votre application sur l'ordinateur d'un collègue et là votre application ne démarre pas à cause d'une version trop ancienne d'une dépendance. Si vous aviez mis votre application et ses dépendances dans un conteneur vous n'auriez pas eu ce souci.
 
-Vous triouverez ici le fruit de mon travail :
+Vous trouverez ici le fruit de mon travail :
 * au sein de [Penbase](https://www.penbase.com/) et d'[Emvista](https://www.emvista.com/).
 * pour des cours et travaux pratiques en MIASH
 
